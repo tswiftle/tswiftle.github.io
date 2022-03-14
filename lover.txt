@@ -1,0 +1,577 @@
+<ul class="trackList__list sc-clearfix sc-list-nostyle"><li class="trackList__item sc-border-light-bottom sc-px-2x"><div class="trackItem g-flex-row sc-type-small sc-text-body sc-type-light sc-text-secondary m-interactive"><div class="trackItem__image sc-py-1x sc-mr-2x">
+  <div class="image image__lightOutline sc-artwork sc-artwork-placeholder-8 m-loaded" style="height: 30px; width: 30px;">
+<span style="background-image: url(&quot;https://i1.sndcdn.com/artworks-QOr71XCPSRTA-0-t120x120.jpg&quot;); width: 30px; height: 30px; opacity: 1;" class="sc-artwork sc-artwork-4x sc-artwork-placeholder-8  image__full g-opacity-transition" aria-label="I Forgot That You Existed" aria-role="img"></span>
+</div>
+  <div class="trackItem__play">
+    <a role="button" href="" class="sc-button-play playButton sc-button sc-button-small sc-button-disabled" tabindex="0" title="Unavailable" draggable="true">Unavailable</a>
+  </div>
+</div>
+<div class="trackItem__numberWrapper">
+  <span class="trackItem__number sc-font">1</span>
+</div>
+<div class="trackItem__content sc-truncate">
+  <a href="/taylorswiftofficial/i-forgot-that-you-existed?in=taylorswiftofficial/sets/lover-35" class="trackItem__trackTitle sc-link-dark sc-link-primary sc-font-light">I Forgot That You Existed</a>
+</div>
+<div class="trackItem__additional">
+    <span class="trackItem__tierIndicator tierIndicator__listGoPlus"></span>
+      <span class="trackItem__playCount sc-ministats sc-ministats-medium sc-ministats-light sc-ministats-plays">
+        73.3K
+      </span>
+    <div class="trackItem__actions">
+      <div class="soundActions sc-button-toolbar soundActions__small">  <div class="sc-button-group sc-button-group-small">
+      <button type="button" class="sc-button-like sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-310" tabindex="0" title="Like" aria-label="Like">Like</button>
+      <button type="button" class="sc-button-repost sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-describedby="tooltip-312" aria-haspopup="true" aria-owns="repost-dropdown-313" title="Repost" aria-label="Repost">Repost</button>
+      <button type="button" class="sc-button-share sc-button-secondary sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-315" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-316" title="Share" aria-label="Share">Share</button>
+      <button type="button" class="sc-button-copylink sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-318" tabindex="0" title="Copy Link" aria-label="Copy Link">Copy Link</button>
+      <button type="button" class="sc-button-more sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-320" title="More" aria-label="More">More</button>
+  </div>
+
+
+</div>
+    </div>
+</div>
+</div></li><li class="trackList__item sc-border-light-bottom sc-px-2x"><div class="trackItem g-flex-row sc-type-small sc-text-body sc-type-light sc-text-secondary m-interactive"><div class="trackItem__image sc-py-1x sc-mr-2x">
+  <div class="image image__lightOutline sc-artwork sc-artwork-placeholder-8 m-loaded" style="height: 30px; width: 30px;">
+<span style="background-image: url(&quot;https://i1.sndcdn.com/artworks-g88BUti0LOck-0-t120x120.jpg&quot;); width: 30px; height: 30px; opacity: 1;" class="sc-artwork sc-artwork-4x sc-artwork-placeholder-8  image__full g-opacity-transition" aria-label="Cruel Summer" aria-role="img"></span>
+</div>
+  <div class="trackItem__play">
+    <a role="button" href="" class="sc-button-play playButton sc-button sc-button-small sc-button-disabled" tabindex="0" title="Unavailable" draggable="true">Unavailable</a>
+  </div>
+</div>
+<div class="trackItem__numberWrapper">
+  <span class="trackItem__number sc-font">2</span>
+</div>
+<div class="trackItem__content sc-truncate">
+  <a href="/taylorswiftofficial/cruel-summer?in=taylorswiftofficial/sets/lover-35" class="trackItem__trackTitle sc-link-dark sc-link-primary sc-font-light">Cruel Summer</a>
+</div>
+<div class="trackItem__additional">
+    <span class="trackItem__tierIndicator tierIndicator__listGoPlus"></span>
+      <span class="trackItem__playCount sc-ministats sc-ministats-medium sc-ministats-light sc-ministats-plays">
+        72.5K
+      </span>
+    <div class="trackItem__actions">
+      <div class="soundActions sc-button-toolbar soundActions__small">  <div class="sc-button-group sc-button-group-small">
+      <button type="button" class="sc-button-like sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-327" tabindex="0" title="Like" aria-label="Like">Like</button>
+      <button type="button" class="sc-button-repost sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-describedby="tooltip-329" aria-haspopup="true" aria-owns="repost-dropdown-330" title="Repost" aria-label="Repost">Repost</button>
+      <button type="button" class="sc-button-share sc-button-secondary sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-332" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-333" title="Share" aria-label="Share">Share</button>
+      <button type="button" class="sc-button-copylink sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-335" tabindex="0" title="Copy Link" aria-label="Copy Link">Copy Link</button>
+      <button type="button" class="sc-button-more sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-337" title="More" aria-label="More">More</button>
+  </div>
+
+
+</div>
+    </div>
+</div>
+</div></li><li class="trackList__item sc-border-light-bottom sc-px-2x"><div class="trackItem g-flex-row sc-type-small sc-text-body sc-type-light sc-text-secondary m-interactive"><div class="trackItem__image sc-py-1x sc-mr-2x">
+  <div class="image image__lightOutline sc-artwork sc-artwork-placeholder-5 m-loaded" style="height: 30px; width: 30px;">
+<span style="background-image: url(&quot;https://i1.sndcdn.com/artworks-WbGqyxZ6s2QK-0-t120x120.jpg&quot;); width: 30px; height: 30px; opacity: 1;" class="sc-artwork sc-artwork-4x sc-artwork-placeholder-5  image__full g-opacity-transition" aria-label="Lover" aria-role="img"></span>
+</div>
+  <div class="trackItem__play">
+    <a role="button" href="" class="sc-button-play playButton sc-button sc-button-small sc-button-disabled" tabindex="0" title="Unavailable" draggable="true">Unavailable</a>
+  </div>
+</div>
+<div class="trackItem__numberWrapper">
+  <span class="trackItem__number sc-font">3</span>
+</div>
+<div class="trackItem__content sc-truncate">
+  <a href="/taylorswiftofficial/lover?in=taylorswiftofficial/sets/lover-35" class="trackItem__trackTitle sc-link-dark sc-link-primary sc-font-light">Lover</a>
+</div>
+<div class="trackItem__additional">
+    <span class="trackItem__tierIndicator tierIndicator__listGoPlus"></span>
+      <span class="trackItem__playCount sc-ministats sc-ministats-medium sc-ministats-light sc-ministats-plays">
+        288K
+      </span>
+    <div class="trackItem__actions">
+      <div class="soundActions sc-button-toolbar soundActions__small">  <div class="sc-button-group sc-button-group-small">
+      <button type="button" class="sc-button-like sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-344" tabindex="0" title="Like" aria-label="Like">Like</button>
+      <button type="button" class="sc-button-repost sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-describedby="tooltip-346" aria-haspopup="true" aria-owns="repost-dropdown-347" title="Repost" aria-label="Repost">Repost</button>
+      <button type="button" class="sc-button-share sc-button-secondary sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-349" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-350" title="Share" aria-label="Share">Share</button>
+      <button type="button" class="sc-button-copylink sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-352" tabindex="0" title="Copy Link" aria-label="Copy Link">Copy Link</button>
+      <button type="button" class="sc-button-more sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-354" title="More" aria-label="More">More</button>
+  </div>
+
+
+</div>
+    </div>
+</div>
+</div></li><li class="trackList__item sc-border-light-bottom sc-px-2x"><div class="trackItem g-flex-row sc-type-small sc-text-body sc-type-light sc-text-secondary m-interactive"><div class="trackItem__image sc-py-1x sc-mr-2x">
+  <div class="image image__lightOutline sc-artwork sc-artwork-placeholder-8 m-loaded" style="height: 30px; width: 30px;">
+<span style="background-image: url(&quot;https://i1.sndcdn.com/artworks-HagQWrzbrWTI-0-t120x120.jpg&quot;); width: 30px; height: 30px; opacity: 1;" class="sc-artwork sc-artwork-4x sc-artwork-placeholder-8  image__full g-opacity-transition" aria-label="The Man" aria-role="img"></span>
+</div>
+  <div class="trackItem__play">
+    <a role="button" href="" class="sc-button-play playButton sc-button sc-button-small sc-button-disabled" tabindex="0" title="Unavailable" draggable="true">Unavailable</a>
+  </div>
+</div>
+<div class="trackItem__numberWrapper">
+  <span class="trackItem__number sc-font">4</span>
+</div>
+<div class="trackItem__content sc-truncate">
+  <a href="/taylorswiftofficial/the-man?in=taylorswiftofficial/sets/lover-35" class="trackItem__trackTitle sc-link-dark sc-link-primary sc-font-light">The Man</a>
+</div>
+<div class="trackItem__additional">
+    <span class="trackItem__tierIndicator tierIndicator__listGoPlus"></span>
+      <span class="trackItem__playCount sc-ministats sc-ministats-medium sc-ministats-light sc-ministats-plays">
+        86.3K
+      </span>
+    <div class="trackItem__actions">
+      <div class="soundActions sc-button-toolbar soundActions__small">  <div class="sc-button-group sc-button-group-small">
+      <button type="button" class="sc-button-like sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-361" tabindex="0" title="Like" aria-label="Like">Like</button>
+      <button type="button" class="sc-button-repost sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-describedby="tooltip-363" aria-haspopup="true" aria-owns="repost-dropdown-364" title="Repost" aria-label="Repost">Repost</button>
+      <button type="button" class="sc-button-share sc-button-secondary sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-366" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-367" title="Share" aria-label="Share">Share</button>
+      <button type="button" class="sc-button-copylink sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-369" tabindex="0" title="Copy Link" aria-label="Copy Link">Copy Link</button>
+      <button type="button" class="sc-button-more sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-371" title="More" aria-label="More">More</button>
+  </div>
+
+
+</div>
+    </div>
+</div>
+</div></li><li class="trackList__item sc-border-light-bottom sc-px-2x"><div class="trackItem g-flex-row sc-type-small sc-text-body sc-type-light sc-text-secondary m-interactive"><div class="trackItem__image sc-py-1x sc-mr-2x">
+  <div class="image image__lightOutline sc-artwork sc-artwork-placeholder-2 m-loaded" style="height: 30px; width: 30px;">
+<span style="background-image: url(&quot;https://i1.sndcdn.com/artworks-UNDyrU37wbyt-0-t120x120.jpg&quot;); width: 30px; height: 30px; opacity: 1;" class="sc-artwork sc-artwork-4x sc-artwork-placeholder-2  image__full g-opacity-transition" aria-label="The Archer" aria-role="img"></span>
+</div>
+  <div class="trackItem__play">
+    <a role="button" href="" class="sc-button-play playButton sc-button sc-button-small sc-button-disabled" tabindex="0" title="Unavailable" draggable="true">Unavailable</a>
+  </div>
+</div>
+<div class="trackItem__numberWrapper">
+  <span class="trackItem__number sc-font">5</span>
+</div>
+<div class="trackItem__content sc-truncate">
+  <a href="/taylorswiftofficial/the-archer?in=taylorswiftofficial/sets/lover-35" class="trackItem__trackTitle sc-link-dark sc-link-primary sc-font-light">The Archer</a>
+</div>
+<div class="trackItem__additional">
+    <span class="trackItem__tierIndicator tierIndicator__listGoPlus"></span>
+      <span class="trackItem__playCount sc-ministats sc-ministats-medium sc-ministats-light sc-ministats-plays">
+        54.6K
+      </span>
+    <div class="trackItem__actions">
+      <div class="soundActions sc-button-toolbar soundActions__small">  <div class="sc-button-group sc-button-group-small">
+      <button type="button" class="sc-button-like sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-378" tabindex="0" title="Like" aria-label="Like">Like</button>
+      <button type="button" class="sc-button-repost sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-describedby="tooltip-380" aria-haspopup="true" aria-owns="repost-dropdown-381" title="Repost" aria-label="Repost">Repost</button>
+      <button type="button" class="sc-button-share sc-button-secondary sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-383" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-384" title="Share" aria-label="Share">Share</button>
+      <button type="button" class="sc-button-copylink sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-386" tabindex="0" title="Copy Link" aria-label="Copy Link">Copy Link</button>
+      <button type="button" class="sc-button-more sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-388" title="More" aria-label="More">More</button>
+  </div>
+
+
+</div>
+    </div>
+</div>
+</div></li><li class="trackList__item sc-border-light-bottom sc-px-2x"><div class="trackItem g-flex-row sc-type-small sc-text-body sc-type-light sc-text-secondary m-interactive"><div class="trackItem__image sc-py-1x sc-mr-2x">
+  <div class="image image__lightOutline sc-artwork sc-artwork-placeholder-2 m-loaded" style="height: 30px; width: 30px;">
+<span style="background-image: url(&quot;https://i1.sndcdn.com/artworks-t6z710i7ib07-0-t120x120.jpg&quot;); width: 30px; height: 30px; opacity: 1;" class="sc-artwork sc-artwork-4x sc-artwork-placeholder-2  image__full g-opacity-transition" aria-label="I Think He Knows" aria-role="img"></span>
+</div>
+  <div class="trackItem__play">
+    <a role="button" href="" class="sc-button-play playButton sc-button sc-button-small sc-button-disabled" tabindex="0" title="Unavailable" draggable="true">Unavailable</a>
+  </div>
+</div>
+<div class="trackItem__numberWrapper">
+  <span class="trackItem__number sc-font">6</span>
+</div>
+<div class="trackItem__content sc-truncate">
+  <a href="/taylorswiftofficial/i-think-he-knows?in=taylorswiftofficial/sets/lover-35" class="trackItem__trackTitle sc-link-dark sc-link-primary sc-font-light">I Think He Knows</a>
+</div>
+<div class="trackItem__additional">
+    <span class="trackItem__tierIndicator tierIndicator__listGoPlus"></span>
+      <span class="trackItem__playCount sc-ministats sc-ministats-medium sc-ministats-light sc-ministats-plays">
+        28.9K
+      </span>
+    <div class="trackItem__actions">
+      <div class="soundActions sc-button-toolbar soundActions__small">  <div class="sc-button-group sc-button-group-small">
+      <button type="button" class="sc-button-like sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1460" tabindex="0" title="Like" aria-label="Like">Like</button>
+      <button type="button" class="sc-button-repost sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-describedby="tooltip-1462" aria-haspopup="true" aria-owns="repost-dropdown-1463" title="Repost" aria-label="Repost">Repost</button>
+      <button type="button" class="sc-button-share sc-button-secondary sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1465" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-1466" title="Share" aria-label="Share">Share</button>
+      <button type="button" class="sc-button-copylink sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1468" tabindex="0" title="Copy Link" aria-label="Copy Link">Copy Link</button>
+      <button type="button" class="sc-button-more sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-1470" title="More" aria-label="More">More</button>
+  </div>
+
+
+</div>
+    </div>
+</div>
+</div></li><li class="trackList__item sc-border-light-bottom sc-px-2x"><div class="trackItem g-flex-row sc-type-small sc-text-body sc-type-light sc-text-secondary m-interactive"><div class="trackItem__image sc-py-1x sc-mr-2x">
+  <div class="image image__lightOutline sc-artwork sc-artwork-placeholder-5 m-loaded" style="height: 30px; width: 30px;">
+<span style="background-image: url(&quot;https://i1.sndcdn.com/artworks-yMSLUstHsoP6-0-t120x120.jpg&quot;); width: 30px; height: 30px; opacity: 1;" class="sc-artwork sc-artwork-4x sc-artwork-placeholder-5  image__full g-opacity-transition" aria-label="Miss Americana &amp; The Heartbreak Prince" aria-role="img"></span>
+</div>
+  <div class="trackItem__play">
+    <a role="button" href="" class="sc-button-play playButton sc-button sc-button-small sc-button-disabled" tabindex="0" title="Unavailable" draggable="true">Unavailable</a>
+  </div>
+</div>
+<div class="trackItem__numberWrapper">
+  <span class="trackItem__number sc-font">7</span>
+</div>
+<div class="trackItem__content sc-truncate">
+  <a href="/taylorswiftofficial/miss-americana-the-heartbreak?in=taylorswiftofficial/sets/lover-35" class="trackItem__trackTitle sc-link-dark sc-link-primary sc-font-light">Miss Americana &amp; The Heartbreak Prince</a>
+</div>
+<div class="trackItem__additional">
+    <span class="trackItem__tierIndicator tierIndicator__listGoPlus"></span>
+      <span class="trackItem__playCount sc-ministats sc-ministats-medium sc-ministats-light sc-ministats-plays">
+        38.2K
+      </span>
+    <div class="trackItem__actions">
+      <div class="soundActions sc-button-toolbar soundActions__small">  <div class="sc-button-group sc-button-group-small">
+      <button type="button" class="sc-button-like sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1522" tabindex="0" title="Like" aria-label="Like">Like</button>
+      <button type="button" class="sc-button-repost sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-describedby="tooltip-1524" aria-haspopup="true" aria-owns="repost-dropdown-1525" title="Repost" aria-label="Repost">Repost</button>
+      <button type="button" class="sc-button-share sc-button-secondary sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1527" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-1528" title="Share" aria-label="Share">Share</button>
+      <button type="button" class="sc-button-copylink sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1530" tabindex="0" title="Copy Link" aria-label="Copy Link">Copy Link</button>
+      <button type="button" class="sc-button-more sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-1532" title="More" aria-label="More">More</button>
+  </div>
+
+
+</div>
+    </div>
+</div>
+</div></li><li class="trackList__item sc-border-light-bottom sc-px-2x"><div class="trackItem g-flex-row sc-type-small sc-text-body sc-type-light sc-text-secondary m-interactive"><div class="trackItem__image sc-py-1x sc-mr-2x">
+  <div class="image image__lightOutline sc-artwork sc-artwork-placeholder-8 m-loaded" style="height: 30px; width: 30px;">
+<span style="background-image: url(&quot;https://i1.sndcdn.com/artworks-SpGkIbarNCfx-0-t120x120.jpg&quot;); width: 30px; height: 30px; opacity: 1;" class="sc-artwork sc-artwork-4x sc-artwork-placeholder-8  image__full g-opacity-transition" aria-label="Paper Rings" aria-role="img"></span>
+</div>
+  <div class="trackItem__play">
+    <a role="button" href="" class="sc-button-play playButton sc-button sc-button-small sc-button-disabled" tabindex="0" title="Unavailable" draggable="true">Unavailable</a>
+  </div>
+</div>
+<div class="trackItem__numberWrapper">
+  <span class="trackItem__number sc-font">8</span>
+</div>
+<div class="trackItem__content sc-truncate">
+  <a href="/taylorswiftofficial/paper-rings?in=taylorswiftofficial/sets/lover-35" class="trackItem__trackTitle sc-link-dark sc-link-primary sc-font-light">Paper Rings</a>
+</div>
+<div class="trackItem__additional">
+    <span class="trackItem__tierIndicator tierIndicator__listGoPlus"></span>
+      <span class="trackItem__playCount sc-ministats sc-ministats-medium sc-ministats-light sc-ministats-plays">
+        42.7K
+      </span>
+    <div class="trackItem__actions">
+      <div class="soundActions sc-button-toolbar soundActions__small">  <div class="sc-button-group sc-button-group-small">
+      <button type="button" class="sc-button-like sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1622" tabindex="0" title="Like" aria-label="Like">Like</button>
+      <button type="button" class="sc-button-repost sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-describedby="tooltip-1624" aria-haspopup="true" aria-owns="repost-dropdown-1625" title="Repost" aria-label="Repost">Repost</button>
+      <button type="button" class="sc-button-share sc-button-secondary sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1627" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-1628" title="Share" aria-label="Share">Share</button>
+      <button type="button" class="sc-button-copylink sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1630" tabindex="0" title="Copy Link" aria-label="Copy Link">Copy Link</button>
+      <button type="button" class="sc-button-more sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-1632" title="More" aria-label="More">More</button>
+  </div>
+
+
+</div>
+    </div>
+</div>
+</div></li><li class="trackList__item sc-border-light-bottom sc-px-2x"><div class="trackItem g-flex-row sc-type-small sc-text-body sc-type-light sc-text-secondary m-interactive"><div class="trackItem__image sc-py-1x sc-mr-2x">
+  <div class="image image__lightOutline sc-artwork sc-artwork-placeholder-8 m-loaded" style="height: 30px; width: 30px;">
+<span style="background-image: url(&quot;https://i1.sndcdn.com/artworks-aWnbP2NeeEdG-0-t120x120.jpg&quot;); width: 30px; height: 30px; opacity: 1;" class="sc-artwork sc-artwork-4x sc-artwork-placeholder-8  image__full g-opacity-transition" aria-label="Cornelia Street" aria-role="img"></span>
+</div>
+  <div class="trackItem__play">
+    <a role="button" href="" class="sc-button-play playButton sc-button sc-button-small sc-button-disabled" tabindex="0" title="Unavailable" draggable="true">Unavailable</a>
+  </div>
+</div>
+<div class="trackItem__numberWrapper">
+  <span class="trackItem__number sc-font">9</span>
+</div>
+<div class="trackItem__content sc-truncate">
+  <a href="/taylorswiftofficial/cornelia-street?in=taylorswiftofficial/sets/lover-35" class="trackItem__trackTitle sc-link-dark sc-link-primary sc-font-light">Cornelia Street</a>
+</div>
+<div class="trackItem__additional">
+    <span class="trackItem__tierIndicator tierIndicator__listGoPlus"></span>
+      <span class="trackItem__playCount sc-ministats sc-ministats-medium sc-ministats-light sc-ministats-plays">
+        29.3K
+      </span>
+    <div class="trackItem__actions">
+      <div class="soundActions sc-button-toolbar soundActions__small">  <div class="sc-button-group sc-button-group-small">
+      <button type="button" class="sc-button-like sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1429" tabindex="0" title="Like" aria-label="Like">Like</button>
+      <button type="button" class="sc-button-repost sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-describedby="tooltip-1431" aria-haspopup="true" aria-owns="repost-dropdown-1432" title="Repost" aria-label="Repost">Repost</button>
+      <button type="button" class="sc-button-share sc-button-secondary sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1434" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-1435" title="Share" aria-label="Share">Share</button>
+      <button type="button" class="sc-button-copylink sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1437" tabindex="0" title="Copy Link" aria-label="Copy Link">Copy Link</button>
+      <button type="button" class="sc-button-more sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-1439" title="More" aria-label="More">More</button>
+  </div>
+
+
+</div>
+    </div>
+</div>
+</div></li><li class="trackList__item sc-border-light-bottom sc-px-2x"><div class="trackItem g-flex-row sc-type-small sc-text-body sc-type-light sc-text-secondary m-interactive"><div class="trackItem__image sc-py-1x sc-mr-2x">
+  <div class="image image__lightOutline sc-artwork sc-artwork-placeholder-11 m-loaded" style="height: 30px; width: 30px;">
+<span style="background-image: url(&quot;https://i1.sndcdn.com/artworks-GrPfpyb1O4mu-0-t120x120.jpg&quot;); width: 30px; height: 30px; opacity: 1;" class="sc-artwork sc-artwork-4x sc-artwork-placeholder-11  image__full g-opacity-transition" aria-label="Death By A Thousand Cuts" aria-role="img"></span>
+</div>
+  <div class="trackItem__play">
+    <a role="button" href="" class="sc-button-play playButton sc-button sc-button-small sc-button-disabled" tabindex="0" title="Unavailable" draggable="true">Unavailable</a>
+  </div>
+</div>
+<div class="trackItem__numberWrapper">
+  <span class="trackItem__number sc-font">10</span>
+</div>
+<div class="trackItem__content sc-truncate">
+  <a href="/taylorswiftofficial/death-by-a-thousand-cuts?in=taylorswiftofficial/sets/lover-35" class="trackItem__trackTitle sc-link-dark sc-link-primary sc-font-light">Death By A Thousand Cuts</a>
+</div>
+<div class="trackItem__additional">
+    <span class="trackItem__tierIndicator tierIndicator__listGoPlus"></span>
+      <span class="trackItem__playCount sc-ministats sc-ministats-medium sc-ministats-light sc-ministats-plays">
+        27K
+      </span>
+    <div class="trackItem__actions">
+      <div class="soundActions sc-button-toolbar soundActions__small">  <div class="sc-button-group sc-button-group-small">
+      <button type="button" class="sc-button-like sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1336" tabindex="0" title="Like" aria-label="Like">Like</button>
+      <button type="button" class="sc-button-repost sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-describedby="tooltip-1338" aria-haspopup="true" aria-owns="repost-dropdown-1339" title="Repost" aria-label="Repost">Repost</button>
+      <button type="button" class="sc-button-share sc-button-secondary sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1341" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-1342" title="Share" aria-label="Share">Share</button>
+      <button type="button" class="sc-button-copylink sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1344" tabindex="0" title="Copy Link" aria-label="Copy Link">Copy Link</button>
+      <button type="button" class="sc-button-more sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-1346" title="More" aria-label="More">More</button>
+  </div>
+
+
+</div>
+    </div>
+</div>
+</div></li><li class="trackList__item sc-border-light-bottom sc-px-2x"><div class="trackItem g-flex-row sc-type-small sc-text-body sc-type-light sc-text-secondary m-interactive"><div class="trackItem__image sc-py-1x sc-mr-2x">
+  <div class="image image__lightOutline sc-artwork sc-artwork-placeholder-2 m-loaded" style="height: 30px; width: 30px;">
+<span style="background-image: url(&quot;https://i1.sndcdn.com/artworks-xoYIg3EF1xux-0-t120x120.jpg&quot;); width: 30px; height: 30px; opacity: 1;" class="sc-artwork sc-artwork-4x sc-artwork-placeholder-2  image__full g-opacity-transition" aria-label="London Boy" aria-role="img"></span>
+</div>
+  <div class="trackItem__play">
+    <a role="button" href="" class="sc-button-play playButton sc-button sc-button-small sc-button-disabled" tabindex="0" title="Unavailable" draggable="true">Unavailable</a>
+  </div>
+</div>
+<div class="trackItem__numberWrapper">
+  <span class="trackItem__number sc-font">11</span>
+</div>
+<div class="trackItem__content sc-truncate">
+  <a href="/taylorswiftofficial/london-boy?in=taylorswiftofficial/sets/lover-35" class="trackItem__trackTitle sc-link-dark sc-link-primary sc-font-light">London Boy</a>
+</div>
+<div class="trackItem__additional">
+    <span class="trackItem__tierIndicator tierIndicator__listGoPlus"></span>
+      <span class="trackItem__playCount sc-ministats sc-ministats-medium sc-ministats-light sc-ministats-plays">
+        32.9K
+      </span>
+    <div class="trackItem__actions">
+      <div class="soundActions sc-button-toolbar soundActions__small">  <div class="sc-button-group sc-button-group-small">
+      <button type="button" class="sc-button-like sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1584" tabindex="0" title="Like" aria-label="Like">Like</button>
+      <button type="button" class="sc-button-repost sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-describedby="tooltip-1586" aria-haspopup="true" aria-owns="repost-dropdown-1587" title="Repost" aria-label="Repost">Repost</button>
+      <button type="button" class="sc-button-share sc-button-secondary sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1589" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-1590" title="Share" aria-label="Share">Share</button>
+      <button type="button" class="sc-button-copylink sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1592" tabindex="0" title="Copy Link" aria-label="Copy Link">Copy Link</button>
+      <button type="button" class="sc-button-more sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-1594" title="More" aria-label="More">More</button>
+  </div>
+
+
+</div>
+    </div>
+</div>
+</div></li><li class="trackList__item sc-border-light-bottom sc-px-2x"><div class="trackItem g-flex-row sc-type-small sc-text-body sc-type-light sc-text-secondary m-interactive"><div class="trackItem__image sc-py-1x sc-mr-2x">
+  <div class="image image__lightOutline sc-artwork sc-artwork-placeholder-8 m-loaded" style="height: 30px; width: 30px;">
+<span style="background-image: url(&quot;https://i1.sndcdn.com/artworks-OhNt06307LPc-0-t120x120.jpg&quot;); width: 30px; height: 30px; opacity: 1;" class="sc-artwork sc-artwork-4x sc-artwork-placeholder-8  image__full g-opacity-transition" aria-label="Soon You’ll Get Better (feat. The Chicks)" aria-role="img"></span>
+</div>
+  <div class="trackItem__play">
+    <a role="button" href="" class="sc-button-play playButton sc-button sc-button-small sc-button-disabled" tabindex="0" title="Unavailable" draggable="true">Unavailable</a>
+  </div>
+</div>
+<div class="trackItem__numberWrapper">
+  <span class="trackItem__number sc-font">12</span>
+</div>
+<div class="trackItem__content sc-truncate">
+  <a href="/taylorswiftofficial/soon-youll-get-better-feat?in=taylorswiftofficial/sets/lover-35" class="trackItem__trackTitle sc-link-dark sc-link-primary sc-font-light">Soon You’ll Get Better (feat. The Chicks)</a>
+</div>
+<div class="trackItem__additional">
+    <span class="trackItem__tierIndicator tierIndicator__listGoPlus"></span>
+      <span class="trackItem__playCount sc-ministats sc-ministats-medium sc-ministats-light sc-ministats-plays">
+        25.8K
+      </span>
+    <div class="trackItem__actions">
+      <div class="soundActions sc-button-toolbar soundActions__small">  <div class="sc-button-group sc-button-group-small">
+      <button type="button" class="sc-button-like sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1553" tabindex="0" title="Like" aria-label="Like">Like</button>
+      <button type="button" class="sc-button-repost sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-describedby="tooltip-1555" aria-haspopup="true" aria-owns="repost-dropdown-1556" title="Repost" aria-label="Repost">Repost</button>
+      <button type="button" class="sc-button-share sc-button-secondary sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1558" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-1559" title="Share" aria-label="Share">Share</button>
+      <button type="button" class="sc-button-copylink sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1561" tabindex="0" title="Copy Link" aria-label="Copy Link">Copy Link</button>
+      <button type="button" class="sc-button-more sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-1563" title="More" aria-label="More">More</button>
+  </div>
+
+
+</div>
+    </div>
+</div>
+</div></li><li class="trackList__item sc-border-light-bottom sc-px-2x"><div class="trackItem g-flex-row sc-type-small sc-text-body sc-type-light sc-text-secondary m-interactive"><div class="trackItem__image sc-py-1x sc-mr-2x">
+  <div class="image image__lightOutline sc-artwork sc-artwork-placeholder-2 m-loaded" style="height: 30px; width: 30px;">
+<span style="background-image: url(&quot;https://i1.sndcdn.com/artworks-jFvPepxxcQB7-0-t120x120.jpg&quot;); width: 30px; height: 30px; opacity: 1;" class="sc-artwork sc-artwork-4x sc-artwork-placeholder-2  image__full g-opacity-transition" aria-label="False God" aria-role="img"></span>
+</div>
+  <div class="trackItem__play">
+    <a role="button" href="" class="sc-button-play playButton sc-button sc-button-small sc-button-disabled" tabindex="0" title="Unavailable" draggable="true">Unavailable</a>
+  </div>
+</div>
+<div class="trackItem__numberWrapper">
+  <span class="trackItem__number sc-font">13</span>
+</div>
+<div class="trackItem__content sc-truncate">
+  <a href="/taylorswiftofficial/false-god?in=taylorswiftofficial/sets/lover-35" class="trackItem__trackTitle sc-link-dark sc-link-primary sc-font-light">False God</a>
+</div>
+<div class="trackItem__additional">
+    <span class="trackItem__tierIndicator tierIndicator__listGoPlus"></span>
+      <span class="trackItem__playCount sc-ministats sc-ministats-medium sc-ministats-light sc-ministats-plays">
+        26.2K
+      </span>
+    <div class="trackItem__actions">
+      <div class="soundActions sc-button-toolbar soundActions__small">  <div class="sc-button-group sc-button-group-small">
+      <button type="button" class="sc-button-like sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1398" tabindex="0" title="Like" aria-label="Like">Like</button>
+      <button type="button" class="sc-button-repost sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-describedby="tooltip-1400" aria-haspopup="true" aria-owns="repost-dropdown-1401" title="Repost" aria-label="Repost">Repost</button>
+      <button type="button" class="sc-button-share sc-button-secondary sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1403" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-1404" title="Share" aria-label="Share">Share</button>
+      <button type="button" class="sc-button-copylink sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1406" tabindex="0" title="Copy Link" aria-label="Copy Link">Copy Link</button>
+      <button type="button" class="sc-button-more sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-1408" title="More" aria-label="More">More</button>
+  </div>
+
+
+</div>
+    </div>
+</div>
+</div></li><li class="trackList__item sc-border-light-bottom sc-px-2x"><div class="trackItem g-flex-row sc-type-small sc-text-body sc-type-light sc-text-secondary m-interactive"><div class="trackItem__image sc-py-1x sc-mr-2x">
+  <div class="image image__lightOutline sc-artwork sc-artwork-placeholder-9 m-loaded" style="height: 30px; width: 30px;">
+<span style="background-image: url(&quot;https://i1.sndcdn.com/artworks-1KcH277pSXWq-0-t120x120.jpg&quot;); width: 30px; height: 30px; opacity: 1;" class="sc-artwork sc-artwork-4x sc-artwork-placeholder-9  image__full g-opacity-transition" aria-label="You Need To Calm Down" aria-role="img"></span>
+</div>
+  <div class="trackItem__play">
+    <a role="button" href="" class="sc-button-play playButton sc-button sc-button-small sc-button-disabled" tabindex="0" title="Unavailable" draggable="true">Unavailable</a>
+  </div>
+</div>
+<div class="trackItem__numberWrapper">
+  <span class="trackItem__number sc-font">14</span>
+</div>
+<div class="trackItem__content sc-truncate">
+  <a href="/taylorswiftofficial/you-need-to-calm-down?in=taylorswiftofficial/sets/lover-35" class="trackItem__trackTitle sc-link-dark sc-link-primary sc-font-light">You Need To Calm Down</a>
+</div>
+<div class="trackItem__additional">
+    <span class="trackItem__tierIndicator tierIndicator__listGoPlus"></span>
+      <span class="trackItem__playCount sc-ministats sc-ministats-medium sc-ministats-light sc-ministats-plays">
+        372K
+      </span>
+    <div class="trackItem__actions">
+      <div class="soundActions sc-button-toolbar soundActions__small">  <div class="sc-button-group sc-button-group-small">
+      <button type="button" class="sc-button-like sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1491" tabindex="0" title="Like" aria-label="Like">Like</button>
+      <button type="button" class="sc-button-repost sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-describedby="tooltip-1493" aria-haspopup="true" aria-owns="repost-dropdown-1494" title="Repost" aria-label="Repost">Repost</button>
+      <button type="button" class="sc-button-share sc-button-secondary sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1496" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-1497" title="Share" aria-label="Share">Share</button>
+      <button type="button" class="sc-button-copylink sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1499" tabindex="0" title="Copy Link" aria-label="Copy Link">Copy Link</button>
+      <button type="button" class="sc-button-more sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-1501" title="More" aria-label="More">More</button>
+  </div>
+
+
+</div>
+    </div>
+</div>
+</div></li><li class="trackList__item sc-border-light-bottom sc-px-2x"><div class="trackItem g-flex-row sc-type-small sc-text-body sc-type-light sc-text-secondary m-interactive"><div class="trackItem__image sc-py-1x sc-mr-2x">
+  <div class="image image__lightOutline sc-artwork sc-artwork-placeholder-2 m-loaded" style="height: 30px; width: 30px;">
+<span style="background-image: url(&quot;https://i1.sndcdn.com/artworks-giarJOHX5daS-0-t120x120.jpg&quot;); width: 30px; height: 30px; opacity: 1;" class="sc-artwork sc-artwork-4x sc-artwork-placeholder-2  image__full g-opacity-transition" aria-label="Afterglow" aria-role="img"></span>
+</div>
+  <div class="trackItem__play">
+    <a role="button" href="" class="sc-button-play playButton sc-button sc-button-small sc-button-disabled" tabindex="0" title="Unavailable" draggable="true">Unavailable</a>
+  </div>
+</div>
+<div class="trackItem__numberWrapper">
+  <span class="trackItem__number sc-font">15</span>
+</div>
+<div class="trackItem__content sc-truncate">
+  <a href="/taylorswiftofficial/afterglow?in=taylorswiftofficial/sets/lover-35" class="trackItem__trackTitle sc-link-dark sc-link-primary sc-font-light">Afterglow</a>
+</div>
+<div class="trackItem__additional">
+    <span class="trackItem__tierIndicator tierIndicator__listGoPlus"></span>
+      <span class="trackItem__playCount sc-ministats sc-ministats-medium sc-ministats-light sc-ministats-plays">
+        29.3K
+      </span>
+    <div class="trackItem__actions">
+      <div class="soundActions sc-button-toolbar soundActions__small">  <div class="sc-button-group sc-button-group-small">
+      <button type="button" class="sc-button-like sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1367" tabindex="0" title="Like" aria-label="Like">Like</button>
+      <button type="button" class="sc-button-repost sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-describedby="tooltip-1369" aria-haspopup="true" aria-owns="repost-dropdown-1370" title="Repost" aria-label="Repost">Repost</button>
+      <button type="button" class="sc-button-share sc-button-secondary sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1372" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-1373" title="Share" aria-label="Share">Share</button>
+      <button type="button" class="sc-button-copylink sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1375" tabindex="0" title="Copy Link" aria-label="Copy Link">Copy Link</button>
+      <button type="button" class="sc-button-more sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-1377" title="More" aria-label="More">More</button>
+  </div>
+
+
+</div>
+    </div>
+</div>
+</div></li><li class="trackList__item sc-border-light-bottom sc-px-2x"><div class="trackItem g-flex-row sc-type-small sc-text-body sc-type-light sc-text-secondary m-interactive"><div class="trackItem__image sc-py-1x sc-mr-2x">
+  <div class="image image__lightOutline sc-artwork sc-artwork-placeholder-3 m-loaded" style="height: 30px; width: 30px;">
+<span style="background-image: url(&quot;https://i1.sndcdn.com/artworks-dAd0yhiM37pX-0-t120x120.jpg&quot;); width: 30px; height: 30px; opacity: 1;" class="sc-artwork sc-artwork-4x sc-artwork-placeholder-3  image__full g-opacity-transition" aria-label="ME! (feat. Brendon Urie of Panic! At The Disco)" aria-role="img"></span>
+</div>
+  <div class="trackItem__play">
+    <a role="button" href="" class="sc-button-play playButton sc-button sc-button-small sc-button-disabled" tabindex="0" title="Unavailable" draggable="true">Unavailable</a>
+  </div>
+</div>
+<div class="trackItem__numberWrapper">
+  <span class="trackItem__number sc-font">16</span>
+</div>
+<div class="trackItem__content sc-truncate">
+  <a href="/taylorswiftofficial/me-feat-brendon-urie-of-panic?in=taylorswiftofficial/sets/lover-35" class="trackItem__trackTitle sc-link-dark sc-link-primary sc-font-light">ME! (feat. Brendon Urie of Panic! At The Disco)</a>
+</div>
+<div class="trackItem__additional">
+    <span class="trackItem__tierIndicator tierIndicator__listGoPlus"></span>
+      <span class="trackItem__playCount sc-ministats sc-ministats-medium sc-ministats-light sc-ministats-plays">
+        297K
+      </span>
+    <div class="trackItem__actions">
+      <div class="soundActions sc-button-toolbar soundActions__small">  <div class="sc-button-group sc-button-group-small">
+      <button type="button" class="sc-button-like sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1664" tabindex="0" title="Like" aria-label="Like">Like</button>
+      <button type="button" class="sc-button-repost sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-describedby="tooltip-1666" aria-haspopup="true" aria-owns="repost-dropdown-1667" title="Repost" aria-label="Repost">Repost</button>
+      <button type="button" class="sc-button-share sc-button-secondary sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1669" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-1670" title="Share" aria-label="Share">Share</button>
+      <button type="button" class="sc-button-copylink sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1672" tabindex="0" title="Copy Link" aria-label="Copy Link">Copy Link</button>
+      <button type="button" class="sc-button-more sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-1674" title="More" aria-label="More">More</button>
+  </div>
+
+
+</div>
+    </div>
+</div>
+</div></li><li class="trackList__item sc-border-light-bottom sc-px-2x"><div class="trackItem g-flex-row sc-type-small sc-text-body sc-type-light sc-text-secondary m-interactive"><div class="trackItem__image sc-py-1x sc-mr-2x">
+  <div class="image image__lightOutline sc-artwork sc-artwork-placeholder-2 m-loaded" style="height: 30px; width: 30px;">
+<span style="background-image: url(&quot;https://i1.sndcdn.com/artworks-MDHT6Q8pH88V-0-t120x120.jpg&quot;); width: 30px; height: 30px; opacity: 1;" class="sc-artwork sc-artwork-4x sc-artwork-placeholder-2  image__full g-opacity-transition" aria-label="It’s Nice To Have A Friend" aria-role="img"></span>
+</div>
+  <div class="trackItem__play">
+    <a role="button" href="" class="sc-button-play playButton sc-button sc-button-small sc-button-disabled" tabindex="0" title="Unavailable" draggable="true">Unavailable</a>
+  </div>
+</div>
+<div class="trackItem__numberWrapper">
+  <span class="trackItem__number sc-font">17</span>
+</div>
+<div class="trackItem__content sc-truncate">
+  <a href="/taylorswiftofficial/its-nice-to-have-a-friend?in=taylorswiftofficial/sets/lover-35" class="trackItem__trackTitle sc-link-dark sc-link-primary sc-font-light">It’s Nice To Have A Friend</a>
+</div>
+<div class="trackItem__additional">
+    <span class="trackItem__tierIndicator tierIndicator__listGoPlus"></span>
+      <span class="trackItem__playCount sc-ministats sc-ministats-medium sc-ministats-light sc-ministats-plays">
+        20.1K
+      </span>
+    <div class="trackItem__actions">
+      <div class="soundActions sc-button-toolbar soundActions__small">  <div class="sc-button-group sc-button-group-small">
+      <button type="button" class="sc-button-like sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1695" tabindex="0" title="Like" aria-label="Like">Like</button>
+      <button type="button" class="sc-button-repost sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-describedby="tooltip-1697" aria-haspopup="true" aria-owns="repost-dropdown-1698" title="Repost" aria-label="Repost">Repost</button>
+      <button type="button" class="sc-button-share sc-button-secondary sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1700" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-1701" title="Share" aria-label="Share">Share</button>
+      <button type="button" class="sc-button-copylink sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1703" tabindex="0" title="Copy Link" aria-label="Copy Link">Copy Link</button>
+      <button type="button" class="sc-button-more sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-1705" title="More" aria-label="More">More</button>
+  </div>
+
+
+</div>
+    </div>
+</div>
+</div></li><li class="trackList__item sc-border-light-bottom sc-px-2x"><div class="trackItem g-flex-row sc-type-small sc-text-body sc-type-light sc-text-secondary m-interactive"><div class="trackItem__image sc-py-1x sc-mr-2x">
+  <div class="image image__lightOutline sc-artwork sc-artwork-placeholder-5 m-loaded" style="height: 30px; width: 30px;">
+<span style="background-image: url(&quot;https://i1.sndcdn.com/artworks-k3vcBRYXtNCy-0-t120x120.jpg&quot;); width: 30px; height: 30px; opacity: 1;" class="sc-artwork sc-artwork-4x sc-artwork-placeholder-5  image__full g-opacity-transition" aria-label="Daylight" aria-role="img"></span>
+</div>
+  <div class="trackItem__play">
+    <a role="button" href="" class="sc-button-play playButton sc-button sc-button-small sc-button-disabled" tabindex="0" title="Unavailable" draggable="true">Unavailable</a>
+  </div>
+</div>
+<div class="trackItem__numberWrapper">
+  <span class="trackItem__number sc-font">18</span>
+</div>
+<div class="trackItem__content sc-truncate">
+  <a href="/taylorswiftofficial/daylight?in=taylorswiftofficial/sets/lover-35" class="trackItem__trackTitle sc-link-dark sc-link-primary sc-font-light">Daylight</a>
+</div>
+<div class="trackItem__additional">
+    <span class="trackItem__tierIndicator tierIndicator__listGoPlus"></span>
+      <span class="trackItem__playCount sc-ministats sc-ministats-medium sc-ministats-light sc-ministats-plays">
+        22.5K
+      </span>
+    <div class="trackItem__actions">
+      <div class="soundActions sc-button-toolbar soundActions__small">  <div class="sc-button-group sc-button-group-small">
+      <button type="button" class="sc-button-like sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1726" tabindex="0" title="Like" aria-label="Like">Like</button>
+      <button type="button" class="sc-button-repost sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-describedby="tooltip-1728" aria-haspopup="true" aria-owns="repost-dropdown-1729" title="Repost" aria-label="Repost">Repost</button>
+      <button type="button" class="sc-button-share sc-button-secondary sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1731" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-1732" title="Share" aria-label="Share">Share</button>
+      <button type="button" class="sc-button-copylink sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" aria-describedby="tooltip-1734" tabindex="0" title="Copy Link" aria-label="Copy Link">Copy Link</button>
+      <button type="button" class="sc-button-more sc-button-secondary sc-button sc-button-small sc-button-icon sc-button-responsive" tabindex="0" aria-haspopup="true" role="button" aria-owns="dropdown-button-1736" title="More" aria-label="More">More</button>
+  </div>
+
+
+</div>
+    </div>
+</div>
+</div></li></ul>
